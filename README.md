@@ -1,5 +1,3 @@
-¡Perfecto 🚀! Ahora sí, con tu documento IEEE830 sobre el **sistema de alquiler de bicicletas** y todos los enlaces de Drive que me pasaste, te preparo un **README.md completo y organizado** para tu software:
-
 ```markdown
 # README - Sistema de Gestión para Alquiler de Bicicletas
 
